@@ -1,6 +1,6 @@
 
 
-### Olá! Me chamo Guilherme do Couto!👋
+### Olá! Me chamo Guilherme do Couto!
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=glhrmcouto&show_icons=true&theme=dracula)
 
