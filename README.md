@@ -8,7 +8,7 @@
 
 🎓Formação: Análise e Desenvolvimento de Sistemas
 
-🛠️Habilidades: Java, JavaScript, HTMLT e CSS
+🛠️Habilidades: JavaScript, HTML, CSS e PHP.
 
 🌎Idiomas: Português(Nativo), Inglês(Intermediário)
 
